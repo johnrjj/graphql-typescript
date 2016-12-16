@@ -1,3 +1,5 @@
+#GraphQL Example (Query + Mutation w/ Relay edge/node compliance)
+
 `tsc && node dist/index` to start. navigate to graphiql like usual (http//localhost:3000/graphql)
 
 Comments:
