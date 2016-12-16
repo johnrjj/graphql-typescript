@@ -1,6 +1,7 @@
 #GraphQL Example (Query + Mutation w/ Relay edge/node compliance)
 
-`yarn && tsc && node dist/index` to start. 
+#### To run: `yarn && npm start` 
+
 
 Navigate to graphiql like usual (http//localhost:3000/graphql)
 
