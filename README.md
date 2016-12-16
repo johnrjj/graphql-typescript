@@ -1,6 +1,8 @@
 #GraphQL Example (Query + Mutation w/ Relay edge/node compliance)
 
-`tsc && node dist/index` to start. navigate to graphiql like usual (http//localhost:3000/graphql)
+`yarn && tsc && node dist/index` to start. 
+
+Navigate to graphiql like usual (http//localhost:3000/graphql)
 
 Comments:
 I really like GraphQL personally. We use it in production at my day job, and it's a real cool piece of technology. 
